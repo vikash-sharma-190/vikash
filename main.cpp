@@ -14,6 +14,7 @@ int main()
              printf("---------------------OS PROJECT 2017------------------*\n\n");
              printf("---------------------VIKASH VISHWAKARMA---------------*\n\n");
              printf("--------------------------K17PD-----------------------*\n\n");
+            printf("--------------------------LPU-----------------------*\n\n");
              printf("\n\t\t\tEnter the size of Queue\t\t");
        Input:
        {      scanf("%d",&n);
